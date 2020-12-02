@@ -1,6 +1,7 @@
 dist
 dist-*
 cabal-dev
+out
 *.o
 *.hi
 *.hie
@@ -10,6 +11,7 @@ cabal-dev
 *.dyn_hi
 .hpc
 .hsenv
+.idea
 .cabal-sandbox/
 cabal.sandbox.config
 *.prof
@@ -21,3 +23,4 @@ cabal.project.local
 cabal.project.local~
 .HTF/
 .ghc.environment.*
+
